@@ -1,1 +1,1 @@
-# Testing
+# Simple Hangman game using C#
